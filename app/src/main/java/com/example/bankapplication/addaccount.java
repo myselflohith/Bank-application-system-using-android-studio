@@ -23,7 +23,7 @@ public class addaccount extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_addaccount);
         getSupportActionBar().setTitle("Add Account");
-
+//hai
         no =(EditText) findViewById(R.id.no);
         aname =(EditText) findViewById(R.id.aname);
         code =(EditText) findViewById(R.id.code);
